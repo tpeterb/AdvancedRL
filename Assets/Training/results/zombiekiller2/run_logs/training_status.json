@@ -1,0 +1,47 @@
+{
+    "AgentController": {
+        "checkpoints": [
+            {
+                "steps": 499941,
+                "file_path": "results\\zombiekiller2\\AgentController\\AgentController-499941.onnx",
+                "reward": 2.388235295520109,
+                "creation_time": 1714650831.604734,
+                "auxillary_file_paths": [
+                    "results\\zombiekiller2\\AgentController\\AgentController-499941.pt"
+                ]
+            },
+            {
+                "steps": 999975,
+                "file_path": "results\\zombiekiller2\\AgentController\\AgentController-999975.onnx",
+                "reward": 3.6000000148108513,
+                "creation_time": 1714651713.8466852,
+                "auxillary_file_paths": [
+                    "results\\zombiekiller2\\AgentController\\AgentController-999975.pt"
+                ]
+            },
+            {
+                "steps": 1054879,
+                "file_path": "results\\zombiekiller2\\AgentController\\AgentController-1054879.onnx",
+                "reward": 3.437500022351742,
+                "creation_time": 1714651811.8717225,
+                "auxillary_file_paths": [
+                    "results\\zombiekiller2\\AgentController\\AgentController-1054879.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1054879,
+            "file_path": "results\\zombiekiller2\\AgentController.onnx",
+            "reward": 3.437500022351742,
+            "creation_time": 1714651811.8717225,
+            "auxillary_file_paths": [
+                "results\\zombiekiller2\\AgentController\\AgentController-1054879.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
