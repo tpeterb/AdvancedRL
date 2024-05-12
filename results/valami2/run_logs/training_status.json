@@ -1,0 +1,29 @@
+{
+    "AgentController": {
+        "checkpoints": [
+            {
+                "steps": 1578,
+                "file_path": "results\\valami2\\AgentController\\AgentController-1578.onnx",
+                "reward": -75.0,
+                "creation_time": 1714576220.281053,
+                "auxillary_file_paths": [
+                    "results\\valami2\\AgentController\\AgentController-1578.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1578,
+            "file_path": "results\\valami2\\AgentController.onnx",
+            "reward": -75.0,
+            "creation_time": 1714576220.281053,
+            "auxillary_file_paths": [
+                "results\\valami2\\AgentController\\AgentController-1578.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
